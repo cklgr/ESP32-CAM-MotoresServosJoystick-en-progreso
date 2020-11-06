@@ -33,9 +33,11 @@ Mis añadidos son pocos pero importantes:
     y los servos de giro e inclinacion, el tercero lo dejare en el deslizador (lo mantengo por cabezoneria).
     
     Los joystick estan cogidos de aqui
+    
       https://github.com/bobboteck/JoyStick      
     
     Y les he añadido una variable de velocidad sacada de este otro codigo para joysticks
+      
       https://www.instructables.com/Making-a-Joystick-With-HTML-pure-JavaScript/
 
 
