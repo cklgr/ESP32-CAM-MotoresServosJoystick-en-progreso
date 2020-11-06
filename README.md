@@ -4,13 +4,15 @@
  
  Voy tocando cosas desde el anterior
 
- Basado/Copiado/Ampliado(poco) desde este proyecto
+ Basado/Copiado/Ampliado(un poco mas) desde este proyecto
   
   https://github.com/tomasmacek/ESP32CAM_RCTANK
    
   Que a su vez es una modificacion de este otro
   
   https://github.com/PepeTheFroggie/ESP32CAM_RCTANK
+  
+  
 Mis añadidos son pocos pero importantes:
 
  1º IP Fija, tal como lo he dejado es imprescidible. 
