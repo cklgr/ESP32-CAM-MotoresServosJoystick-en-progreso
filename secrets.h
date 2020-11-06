@@ -1,5 +1,5 @@
-#define MY_SSID  "ciscosb";
-#define MY_PASSWORD  "aabbccddee";
+#define MY_SSID  "WIFI";
+#define MY_PASSWORD  "CLAVE";
 //#define MY_DUCKDNS_TOKEN   "xxxxxx-xxxx-xxxx-xxxx-xxxxxx"
 
 // Set your Static IP address
