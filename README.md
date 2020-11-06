@@ -34,15 +34,17 @@ Mis añadidos son pocos pero importantes:
     
     Los joystick estan cogidos de aqui
     
-      https://github.com/bobboteck/JoyStick      
+   https://github.com/bobboteck/JoyStick      
     
     Y les he añadido una variable de velocidad sacada de este otro codigo para joysticks
       
-      https://www.instructables.com/Making-a-Joystick-With-HTML-pure-JavaScript/
+   https://www.instructables.com/Making-a-Joystick-With-HTML-pure-JavaScript/
 
 
-PD: No es bonito, esta mal organizado y poco claro, uso incluso una tabla... 
-    (ya me pondre con el CSS cuando se me pase el cabreo que tengo con el)
+PD: No es bonito, esta mal organizado y poco claro, y casi todo dentro del Html, uso incluso una tabla...
+
+(ya me pondre con el CSS cuando se me pase el cabreo que tengo con el)
+    
     ¡¡¡PERO FUNCIONA!!!
     
 
